@@ -1,4 +1,4 @@
-# Zomato Nugget Assignment
+# Restaurant RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot for restaurant data scraped from various Zomato pages. It automates data collection, processing, text conversion, and serves a Streamlit-based interactive UI using LangChain and Hugging Face.
 
@@ -32,7 +32,7 @@ A Retrieval-Augmented Generation (RAG) chatbot for restaurant data scraped from 
 
 ## Project Structure
 ```
-Zomato Nugget Assignment/
+Restaurant-RAG/
 ├── data/
 │   ├── raw/                  # HTML & JSON from scrapers
 │   └── processed/            # Combined JSON & text files
